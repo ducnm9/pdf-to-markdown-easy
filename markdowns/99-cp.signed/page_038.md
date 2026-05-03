@@ -1,0 +1,11 @@
+dự án khác có sử dụng đất hoặc công trình xây dựng thuộc các dự án này thì trước khi ký hợp đồng bán nhà ở, công trình xây dựng trong dự án, chủ đầu tư phải giải quyết đối với tài sản được bán và việc tiếp tục dành sử dụng đất để rút bất tài sản sẽ chấp là nhà ở, công trình xây dựng, trường hợp bán nhà thành thể mất và tái sản có thỏa thuận về việc tiếp tục dành sử dụng đất để bảo đảm theo quy định của pháp luật;
+
+7. Trường hợp người sử dụng đất hoặc công trình đã tạo lập cũng tranh khu vực khác gắn liền với đất không thuộc tài sản bảo đảm theo thủ tục đăng ký giao dịch đảm bảo văn cơ nhà cụ thể sang nội bộ tài sản thì phải được hình thành và thi phải thực hiện thủ tục chứng nhận quyền sở hữu trước khi đăng ký.
+8. Từ khi nhận đầy đủ quyền sở hữu đối với một tài sản gắn liền với đất, bì sổ, giấy chứng nhận quyền sử dụng đất; người đó phải tiến hành lập hồ sơ đồng thời bảo đảm bằng tài sản khác, trong trường hợp được trao lập trong khu vực khác, theo điều khoản 1 Điều 54.
+    a) Tài sản được thay thế, được trao đổi bằng quyền sử dụng đất mới, nhà ở mới, công trình xây dựng mới hoặc tài sản mới khác gắn liền với đất cho bên bán đảm bảo theo quy định của pháp luật;
+    b) Tài sản mới được tạo lập để thay thế cho tài sản bảo đảm là nhà ở, công trình xây dựng hoặc tài sản khác gắn liền với đất có giá trị tiêu thụ hiện hữu theo thỏa thuận giữa bên bảo đảm và bên nhận bảo đảm;
+    c) Tài sản mới được tạo lập đó và bằng quyền sử dụng đất, trong khu vực khác, thuộc các dự án thuộc diện quy định tại khoản 1 Điều 54.
+
+9. Trường hợp người sử dụng đất chủ sở hữu nhà ở, công trình xây dựng thuộc tài sản bảo đảm có giá trị tiêu thụ hiện hữu theo thỏa thuận giữa bên bảo đảm và bên nhận bảo đảm thì phải thực hiện thủ tục chứng nhận quyền sở hữu của vật thể đó và đăng ký giao dịch đảm bảo trên cơ sở này.
+
+10. Trường hợp người yêu cầu đăng ký nội bộ đồng thời sở hữu đất và sở đặng ký biện pháp bảo đảm quy định tại khoản 1 Điều này hoặc nội bộ đồng thời hồ sơ đề nghị chứng nhận quyền sở hữu tài sản gắn liền với đất và hồ sơ đăng ký thay đổi quy định tại khoản 7 Điều này thì thực hiện thủ tục đăng ký biện pháp bảo đảm đối với quyền sử dụng đất, tài sản gắn liền với đất.

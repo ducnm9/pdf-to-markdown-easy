@@ -1,0 +1,36 @@
+39
+
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+
+PHIẾU YÊU CẦU XÓA DẤU BẰNG KÝ BIÊN PHÁP BẢO ĐẢM CÁP/CERTIFICATE OF AIRCRAFT SECURITY APPLICATION FORM FOR DEREGISTRATION OF AIRCRAFT SECURITY
+
+Kính gửi: To/Cục Hàng không Việt Nam/Civil Aviation Authority of Vietnam.
+
+***
+
+**1. Thông tin chung/General Information**
+*   Họ và tên người yêu cầu đăng ký/Applicant: ........................................................
+*   Số CMND/CCCD: .......................... Cấp ngày/ngày (day) / tháng (month) / năm (year) ...... Tại tỉnh/thành phố: .........................
+*   Quốc tịch: ....................................
+*   Địa chỉ liên hệ/Address: ........................................................
+*   Giấy khai sinh/Birth Certificate No.: ........................... Ngày cấp/Ngày ban hành: ..................... Nơi cấp: .......................................
+*   Hộ khẩu/Passport Number: ......................... Cấp ngày/ngày (day) / tháng (month) / năm (year) ...... Tại tỉnh/thành phố: .........................
+
+**2. Thông tin về phương tiện/Vehicle Information**
+*   Tên đầy đủ của phương tiện/Full name of the aircraft: ..........................................
+*   Loại máy bay/Aircraft Type: ....................................
+*   Số hiệu đăng ký/Registration Mark: ....................................
+*   Ngày sản xuất/Date of Manufacture: ..............................
+
+**3. Mục đích và lý do xin đăng ký/Mục đích (Purpose and Reason for Registration)**
+*   (Vui lòng ghi rõ) ................................................................................................
+*   Tôi cam đoan các thông tin nêu trên là đúng sự thật, tôi hoàn toàn chịu trách nhiệm trước pháp luật về tính chính xác của những lời khai này.
+
+***
+
+*Ghi chú:*
+
+1.  Tờ khai này phải được nộp kèm bản sao hợp lệ (có công chứng) của các giấy tờ gốc mà người yêu cầu đăng ký/Applicant cung cấp.
+2.  Thông tin chi tiết trong hồ sơ cần phù hợp với các giấy tờ xác nhận khác và mang tính pháp lý tại thời điểm nộp hồ sơ.
+3.  Trong trường hợp cơ quan Nhà nước có thẩm quyền (như Cảng vụ Hàng không) yêu cầu bổ sung tài liệu hoặc thay đổi thông tin, người yêu cầu phải tuân thủ theo hướng dẫn của cơ quan đó.

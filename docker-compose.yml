@@ -1,0 +1,39 @@
+services:
+  ocr:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: ocr-pdf-to-markdown
+
+    # Load all config from .env file (copy from .env.example first)
+    env_file:
+      - .env
+
+    volumes:
+      # Input PDFs  →  place your .pdf files here on the host
+      - ./inputs:/app/inputs
+
+      # Intermediate PNG images (can be deleted after processing)
+      - ./images:/app/images
+
+      # Output Markdown files
+      - ./markdowns:/app/markdowns
+
+      # Mount source code — thay đổi code không cần rebuild image
+      - ./src:/app/src:ro
+
+      # Optional: override prompts without rebuilding the image
+      - ./prompt.txt:/app/prompt.txt:ro
+      - ./merge_prompt.txt:/app/merge_prompt.txt:ro
+
+    # Restart policy: "no" means run once and exit (batch job behaviour)
+    restart: "no"
+
+    # Tăng memory cho pdf2image (convert PDF sang ảnh tốn RAM)
+    # Điều chỉnh theo kích thước PDF của bạn
+    deploy:
+      resources:
+        limits:
+          memory: 16g
+        reservations:
+          memory: 512m
